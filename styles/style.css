@@ -1,0 +1,34 @@
+body{
+    background:url(/images/black-background.jpg);
+    color:white;
+    padding: 7px;
+    text-align: center;
+}
+
+h3, h5{
+    color: white;
+}
+.profile{
+    height: 100%;
+    width: 100%;
+    position: fixed;  
+}
+
+.logo{
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+.green-color{
+    color: #13D5DB;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.card{
+    border: 1px solid black;
+    box-shadow: 10px 10px 21px 10px #E6E9EB;
+}
